@@ -14,9 +14,9 @@ Hi! I’m **Rohan Senan**, a Mechanical Engineer passionate about designing, bui
 
 ## My Approach
 
-I focus on the intersection of **design, analysis, and hands-on implementation**. Whether it’s modeling multi-level assemblies in SolidWorks or Siemens NX, running FEA simulations, or iterating prototypes in the lab, I thrive on creating solutions that are **efficient, practical, and robust**.  
+I focus on the intersection of design, analysis, and hands-on implementation. Whether it’s modeling multi-level assemblies in SolidWorks or Siemens NX, running FEA simulations, or iterating prototypes in the lab, I thrive on creating solutions that are **efficient, practical, and robust**.  
 
-I value **collaboration and cross-functional teamwork**, often working closely with manufacturing, design, and testing teams to ensure projects meet performance, feasibility, and timeline requirements. I’m always looking for ways to improve processes and workflows, whether through automation tools, design optimization, or careful experimentation.
+I value collaboration and cross-functional teamwork, often working closely with manufacturing, design, and testing teams to ensure projects meet performance, feasibility, and timeline requirements. I’m always looking for ways to improve processes and workflows, whether through automation tools, design optimization, or careful experimentation.
 
 ---
 
@@ -42,7 +42,7 @@ Some highlights of my work include:
 
 ## Outside Engineering
 
-When I’m not designing or building, I enjoy **volleyball**, trying new foods, and travelling. I’m always curious, always learning, and excited to tackle new challenges.
+When I’m not designing or building, I enjoy volleyball, trying new foods, and travelling. I’m always curious, always learning, and excited to tackle new challenges.
 
 ---
 
