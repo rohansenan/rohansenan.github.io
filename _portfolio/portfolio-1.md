@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan Solar Car Team"
 excerpt: "Designed a four-bar linkage and locking stand system that allowed the solar array to rotate from 0–90° for optimal charging. 
-1<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
