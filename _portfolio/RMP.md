@@ -1,7 +1,9 @@
-## 🤖 Robotics Mobility & Dual-Purpose Gripper
-
-**Designed a gripper mechanism capable of manipulating both cylindrical and cuboid objects in an obstacle-course robotics challenge.**
-
+---
+title: "Robotics Mobility Platform"
+excerpt: "Designed a gripper mechanism capable of manipulating both cylindrical and cuboid objects in an obstacle-course robotics challenge. 
+<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 Our robot had to transport a cylindrical flag across the map and also collect and deposit cubes for points. I designed the gripper system to reliably handle both geometries with a single mechanism.
 
 ### What I worked on
