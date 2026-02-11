@@ -18,7 +18,6 @@ Bachelor of Science in Mechanical Engineering, Minor in Computer Science
 
 Experience
 ======
----
 ### Mechanical Test & Validation Engineer — Kaleidoscope Innovation (On-site at Stellantis)  
 *July 2025 - Present*  
 - Executed design validation testing on automotive engine and battery systems, analyzing test data to identify performance gaps and support design revisions in collaboration with design and manufacturing engineers.  
@@ -40,12 +39,10 @@ Experience
 **Mechanical Systems Engineer**  
 *October 2022 - August 2023*  
 - Designed a mechanical linkage system to rotate the solar array 0–90°, modeling components in Siemens NX and validating performance using Altair HyperWorks FEA and hand calculations, contributing to a top-four competition finish.  
-- Generated detailed engineering drawings with GD&T and supported manufacturing through technical documentation, design reviews, and iterative design refinement.  
----
+- Generated detailed engineering drawings with GD&T and supported manufacturing through technical documentation, design reviews, and iterative design refinement.
 
 Project Leadership
 ======
----
 ### My Breathing Buddy - Inflation Mechanism  
 *SolidWorks, Embedded Systems, Prototyping, BOM Creation, Validation, Manufacturing*  
 - Led the design of an Arduino-controlled electromechanical inflation mechanism to simulate breathing patterns for music students, using SolidWorks CAD and hand calculations to validate mechanical and electronic components.  
@@ -55,13 +52,9 @@ Project Leadership
 *SolidWorks, MSC Adams, Arduino, PID Control, System Optimization, Mechanical Analysis, Electromechanical Systems*  
 - Led the design and implementation of a four-bar linkage system to orient a flashlight toward five targets, developing an Arduino-based PID controller to achieve 95% target-tracking accuracy with under 2-second response cycles.  
 - Simulated system dynamics in MSC Adams to optimize torque and angular velocity, maintaining power consumption under 1 W, and validated performance via CAD and prototyping, achieving a 15% increase in torque efficiency.  
----
   
 Skills and Certifications
 ======
 **Programming:** C++, C, Python, JavaScript, TensorFlow  
 **Technical Software:** Siemens NX, SolidWorks, CATIA, AutoCAD, Altair HyperWorks, LS-DYNA, MSC Adams, Altium  
 **Certifications:** FE Exam Passed (Engineer in Training Status)
-
-======
-* Currently signed in to 43 different slack teams
