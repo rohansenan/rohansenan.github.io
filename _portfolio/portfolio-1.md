@@ -5,20 +5,20 @@ excerpt: "Designed a four-bar linkage and locking stand system that allowed the 
 collection: portfolio
 ---
 
-To improve charging efficiency throughout the day, the upper body of the car (housing the solar array) needed to rotate relative to the chassis. I designed the mechanism that made this possible within strict packaging constraints. 
-<br>
-What I worked on
-<br>
-  Designed four-bar linkage connecting upper and lower car bodies
-  <br>
-  Modeled linkage motion to prevent interference and collisions
-  <br>
-  Designed telescoping carbon-fiber tube stand to lock array at various angles
-  <br>
-  Determined tube placement and locking mechanism under tight packaging limits
-  <br>
-Result
-<br>
-  Enabled adjustable array positioning for improved solar charging efficiency 
-  <br>
-  Delivered a lightweight, stiff, and package-constrained mechanism integrated into the vehicle
+To improve charging efficiency throughout the day, the upper body of the car (housing the solar array) needed to rotate relative to the chassis. I designed the mechanism that made this possible within strict packaging constraints.
+
+### What I worked on
+- Designed a four-bar linkage connecting the upper and lower bodies of the car
+- Modeled full linkage motion within the vehicle assembly to prevent interference and collisions
+- Designed a telescoping carbon-fiber tube stand to lock the array at various angles
+- Determined tube placement and locking mechanism under tight packaging constraints
+
+### Key design considerations
+- Interference-free motion across the full range of rotation
+- Structural stiffness with minimal added weight
+- Compact packaging within the vehicle body
+- Reliable locking at multiple positions
+
+### Result
+- Enabled adjustable array positioning for improved solar charging efficiency throughout the day
+- Delivered a lightweight, stiff, and fully integrated mechanism within the car assembly
