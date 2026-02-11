@@ -23,3 +23,5 @@ To improve charging efficiency throughout the day, the upper body of the car (ho
 ### Result
 - Enabled adjustable array positioning for improved solar charging efficiency throughout the day
 - Delivered a lightweight, stiff, and fully integrated mechanism within the car assembly
+
+<img src='/images/500x300.png'>
