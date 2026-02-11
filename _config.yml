@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Rohan Senan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : ""
-  employer         : ""
+  bio              : "Mechanical Engineer passionate about designing and building real-world electromechanical systems. Experienced in CAD modeling and robotics with hands-on work in mechanism design, controls, and prototype development. I enjoy turning complex problems into elegant, functional solutions."
+  location         : #""
+  employer         : #""
   uri              : # URL
   email            : "rohansenan@gmail.com" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "rohansenan"# Username
+  linkedin         : "rohan-senan"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
