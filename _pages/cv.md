@@ -18,13 +18,15 @@ Bachelor of Science in Mechanical Engineering, Minor in Computer Science
 
 Experience
 ======
-### Mechanical Test & Validation Engineer — Kaleidoscope Innovation (On-site at Stellantis)  
+### Kaleidoscope Innovation (On-site at Stellantis)
+**Mechanical Test & Validation Engineer**  
 *July 2025 - Present*  
 - Executed design validation testing on automotive engine and battery systems, analyzing test data to identify performance gaps and support design revisions in collaboration with design and manufacturing engineers.  
 - Authored detailed engineering documentation and end-of-test reports, translating test results into actionable recommendations to improve mechanical system performance and reliability.  
 - Developed automation tools to standardize test feedback and reporting workflows, improving documentation accuracy and reducing report generation time by 50%.  
-
-### Process Engineer Intern — Novelis Inc.  
+ 
+### Novelis Inc.  
+**Process Engineer Intern**  
 *May 2024 - August 2024*  
 - Supported manufacturing process optimization by collecting and analyzing strain, quality, and mechanical property data across multiple process trials.  
 - Developed and validated a roll-forming process simulation using LS-DYNA to evaluate tooling and process changes prior to production trials, reducing setup adjustments by 25%.  
