@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan Solar Car Team"
 excerpt: "Designed a four-bar linkage and locking stand system that allowed the solar array to rotate from 0–90° for optimal charging. 
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/Astrum.jpeg'>"
 weight: 1
 collection: portfolio
 ---
@@ -24,4 +24,4 @@ To improve charging efficiency throughout the day, the upper body of the car (ho
 - Enabled adjustable array positioning for improved solar charging efficiency throughout the day
 - Delivered a lightweight, stiff, and fully integrated mechanism within the car assembly
 
-<img src='/images/500x300.png'>
+<img src='/images/Names_Under_car.jpeg'>
