@@ -1,7 +1,7 @@
 ---
 title: "My Breathing Buddy Inflation Mechanism"
 excerpt: "Designed a compact electromechanical system to simulate human breathing for music education. 
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/MBB_Pic_Alone.jpg'>"
 weight: 2
 collection: portfolio
 ---
@@ -22,3 +22,7 @@ A music teacher needed a portable device that could inflate a model lung to demo
 ### Result
 - Delivered a functional teaching device capable of demonstrating four distinct breathing modes
 - Improved how students visually understood diaphragm motion
+
+<img src='/images/MBB_Pic_Alone.png'>
+
+<img src='/images/MBB_Mechanism.png'>
