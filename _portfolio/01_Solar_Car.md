@@ -24,4 +24,11 @@ To improve charging efficiency throughout the day, the upper body of the car (ho
 - Enabled adjustable array positioning for improved solar charging efficiency throughout the day
 - Delivered a lightweight, stiff, and fully integrated mechanism within the car assembly
 
+<img src='/images/Solar_Car_Iso_Open.jpeg'>
+
+<img src='/images/Horizontal_Open_Array.jpeg'>
+
+<img src='/images/Solar_car_array_Stand.jpeg'>
+
 <img src='/images/Names_Under_car.jpeg'>
+*This car was a team contribution, to honour that all the names of the team members that contributed were added underneath the car.*
