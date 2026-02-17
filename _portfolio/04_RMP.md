@@ -25,4 +25,4 @@ Our robot had to transport a cylindrical flag across the map and also collect an
 
 <img src='/images/Motor_Housing.jpg'>
 
-<img src='/images/Lift_Mech.jpg'>
+<img src='/images/Lift_Mech.png'>
