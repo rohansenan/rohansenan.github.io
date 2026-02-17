@@ -1,7 +1,7 @@
 ---
 title: "My Breathing Buddy Inflation Mechanism"
 excerpt: "Designed a compact electromechanical system to simulate human breathing for music education. 
-<br/><img src='/images/MBB_Overall.png'>"
+<br/><img src='/images/MBB_Pic_Alone.png'>"
 weight: 2
 collection: portfolio
 ---
