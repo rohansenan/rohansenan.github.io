@@ -1,7 +1,7 @@
 ---
 title: "Mechatronic Linkage Targeting System"
 excerpt: "Built a PID-controlled four-bar linkage system to autonomously aim a flashlight at active targets. 
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/unnamed.png'>"
 weight: 3
 collection: portfolio
 ---
@@ -21,3 +21,9 @@ A proximity sensor detected which of five flags was raised, and a motor-driven f
 ### Result
 - Achieved rapid, repeatable targeting of active flags
 - Demonstrated integration of mechanical design with controls
+
+<img src='/images/Top_down.png'>
+
+<img src='/images/Motor_Platform.png'>
+
+<img src='/images/Flashlight_Holder.png'>
