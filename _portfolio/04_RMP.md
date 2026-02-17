@@ -1,7 +1,7 @@
 ---
 title: "Robotics Mobility Platform"
 excerpt: "Designed a gripper mechanism capable of manipulating both cylindrical and cuboid objects in an obstacle-course robotics challenge. 
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/Final_RMP.jpg'>"
 weight: 4
 collection: portfolio
 ---
@@ -20,3 +20,9 @@ Our robot had to transport a cylindrical flag across the map and also collect an
 ### Result
 - Successful object transport across the obstacle course
 - Robust gripping across different shapes without mechanism changes
+
+<img src='/images/Gripper.jpg'>
+
+<img src='/images/Motor_Housing.jpg'>
+
+<img src='/images/Lift_Mech.jpg'>
