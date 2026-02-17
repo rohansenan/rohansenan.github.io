@@ -25,10 +25,11 @@ To improve charging efficiency throughout the day, the upper body of the car (ho
 - Delivered a lightweight, stiff, and fully integrated mechanism within the car assembly
 
 <img src='/images/Solar_Car_Iso_Open.jpeg'>
-
 <img src='/images/Horizontal_Open_Array.jpeg'>
+*The solar car with the array stand holding the array up to charge* 
 
 <img src='/images/Solar_car_array_Stand.jpeg'>
+*You can see the hinge on the bottome left and the carbon fibre telescoping tubes holding up the array*
 
 <img src='/images/Names_Under_car.jpeg'>
 *This car was a team contribution, to honour that all the names of the team members that contributed were added underneath the car.*
