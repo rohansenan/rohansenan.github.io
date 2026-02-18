@@ -23,7 +23,7 @@ A music teacher needed a portable device that could inflate a model lung to demo
 - Delivered a functional teaching device capable of demonstrating four distinct breathing modes
 - Improved how students visually understood diaphragm motion
 
-<img src='/images/MBB_Overall.png'>
+<img src='/images/MBB_Overall.png'><br/>
 *Overall image with insides of the box shown and an image of the model lung*
-<img src='/images/MBB_Mechanism.png'>
+<img src='/images/MBB_Mechanism.png'><br/>
 *Detailed pictures of the inflation mechanism and the parts used*
