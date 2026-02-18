@@ -24,9 +24,7 @@ A proximity sensor detected which of five flags was raised, and a motor-driven f
 
 <img src='/images/Top_down.png'> <br/>
 *Top down view of the linkage system and the platoform it would operate on*
-
 <img src='/images/Motor_Platform.png'>
 *View of the motor platform that held the motor, hard stops, and mounting points for the links*
-
 <img src='/images/Flashlight_Holder.png'>
 *View of the link that held the flashlight and the holder of the flashlight*
