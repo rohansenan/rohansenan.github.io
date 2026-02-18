@@ -24,5 +24,6 @@ A music teacher needed a portable device that could inflate a model lung to demo
 - Improved how students visually understood diaphragm motion
 
 <img src='/images/MBB_Overall.png'>
-
+*Overall image with insides of the box shown and an image of the model lung*
 <img src='/images/MBB_Mechanism.png'>
+*Detailed pictures of the inflation mechanism and the parts used*
