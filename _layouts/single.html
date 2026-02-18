@@ -45,6 +45,15 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        
+          {% if page.collection == 'portfolio' %}
+            <p>
+              <a href="/portfolio/" style="text-decoration:none; font-weight:500;">
+                ← Back to Portfolio
+              </a>
+            </p>
+          {% endif %}
+        
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
