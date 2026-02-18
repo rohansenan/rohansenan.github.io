@@ -22,7 +22,7 @@ A proximity sensor detected which of five flags was raised, and a motor-driven f
 - Achieved rapid, repeatable targeting of active flags
 - Demonstrated integration of mechanical design with controls
 
-<img src='/images/Top_down.png'>
+<img src='/images/Top_down.png'> <br/>
 *Top down view of the linkage system and the platoform it would operate on*
 
 <img src='/images/Motor_Platform.png'>
